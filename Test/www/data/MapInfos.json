@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Start","order":1,"parentId":0,"scrollX":586.5,"scrollY":397},
+{"id":2,"expanded":false,"name":"世界の終わりの時","order":4,"parentId":0,"scrollX":1279.5,"scrollY":687},
+{"id":3,"expanded":false,"name":"ピラミッド","order":3,"parentId":4,"scrollX":757.5,"scrollY":705},
+{"id":4,"expanded":true,"name":"WorldMap","order":2,"parentId":0,"scrollX":1279.5,"scrollY":705}
+]

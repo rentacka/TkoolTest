@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"Package1_4","characterIndex":3,"characterName":"Package1","classId":5,"equips":[1,1,2,3,0],"faceIndex":3,"faceName":"Package1","traits":[],"initialLevel":1,"maxLevel":99,"name":"ハロダム","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Package1_6","characterIndex":5,"characterName":"Package1","classId":3,"equips":[2,1,2,3,0],"faceIndex":5,"faceName":"Package1","traits":[],"initialLevel":1,"maxLevel":99,"name":"テレーゼ","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"1003403","characterIndex":5,"characterName":"Evil","classId":8,"equips":[3,0,2,3,4],"faceIndex":5,"faceName":"Evil","traits":[],"initialLevel":1,"maxLevel":99,"name":"マシム","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"1001102","characterIndex":0,"characterName":"People3","classId":6,"equips":[4,0,2,3,4],"faceIndex":4,"faceName":"Package2","traits":[],"initialLevel":1,"maxLevel":99,"name":"レオ","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"1003701","characterIndex":6,"characterName":"Nature","classId":7,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"character2_face1","traits":[],"initialLevel":1,"maxLevel":99,"name":"サキュラ","nickname":"","note":"","profile":""}
+]
